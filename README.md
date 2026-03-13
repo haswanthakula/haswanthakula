@@ -1,5 +1,5 @@
 # 💫 Hi there! 👋 I'm Haswanth Akula
-🚀 Java Full Stack Developer | AWS Cloud Enthusiast | Python Programmer | DevOps Learner<br><br>I'm a passionate Full Stack Developer with experience in designing and developing scalable web applications using React.js, Spring Boot, and AWS Cloud. With a strong foundation in backend development, cloud computing, and DevOps practices, I thrive in Agile environments, continuously improving my technical expertise and problem-solving skills.
+🚀 Java Full Stack Developer | AWS Cloud Enthusiast | Python Programmer | DevOps Learner<br><br>A Java Full Stack Developer at Cognizant. I specialize in building scalable web applications and cloud-native solutions, with a focus on creating seamless bridges between robust backend architecture and modern frontend experiences.. With a strong foundation in backend development, cloud computing, and DevOps practices, I thrive in Agile environments, continuously improving my technical expertise and problem-solving skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/haswanthakula/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haswanthakula5@gmail.com) 
